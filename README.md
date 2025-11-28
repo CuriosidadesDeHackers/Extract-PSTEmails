@@ -79,12 +79,3 @@ El archivo generado (`emails_consolidado.csv`) contendrá las siguientes columna
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia [MIT](https://www.google.com/search?q=LICENSE). Siéntete libre de usarlo y modificarlo.
-
-```
-
-***
-
-### Consejos extra para tu repositorio:
-1.  **Nombre del archivo:** Guarda tu script con un nombre limpio, por ejemplo: `Get-PstEmailData.ps1`.
-2.  **`.gitignore`:** Asegúrate de crear un archivo `.gitignore` y añadir `*.pst` y `*.csv` para evitar subir accidentalmente los correos de tu empresa o el reporte con datos reales a GitHub.
-```
